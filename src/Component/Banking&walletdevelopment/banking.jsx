@@ -1,7 +1,7 @@
 function Banking() {
   return (
     <main className="bg-primary-container text-on-primary p-6 rounded-xl m-4">
-      Banking tokens working!
+      Testiing Our Fonts, working working
     </main>
   )
 }

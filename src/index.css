@@ -82,6 +82,13 @@
 }
 
 /* ── Global Base Styles ── */
+*{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: #faf9f7;
   max-width: 390px;
