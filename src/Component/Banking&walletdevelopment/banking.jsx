@@ -1,7 +1,9 @@
+import BalanceCard from './BalanceCard'
+
 function Banking() {
   return (
-    <main className="bg-primary-container text-on-primary p-6 rounded-xl m-4">
-      Testiing Our Fonts, working working
+    <main className="flex-1 pt-20 pb-24 px-4 space-y-6">
+      <BalanceCard />
     </main>
   )
 }
